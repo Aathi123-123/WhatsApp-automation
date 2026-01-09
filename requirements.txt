@@ -1,0 +1,4 @@
+pywhatkit
+pyautogui
+pygetwindow
+pyperclip
